@@ -63,6 +63,9 @@ Un hallazgo de estas características tiene un efecto relevante, haciendo necesa
 2. Revisar la carpeta `data/` para consultar la tabla final utilizada.
 3. Revisar la carpeta `dashboard/` para ver el resumen visual construido en Power BI.
 
+## Acceso al notebook en Google Colab
+https://colab.research.google.com/drive/1TPS3wn0nr3QDDYLpEswQAm65DG_SBGFF?usp=sharing
+
 ## Autor
 
 Lisandro Chiavassa
